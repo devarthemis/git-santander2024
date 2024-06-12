@@ -5,3 +5,5 @@
 # Salvando modificações
 
 # comando git push
+
+# comando git pull
